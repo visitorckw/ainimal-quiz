@@ -1,0 +1,23 @@
+{
+  "name": "ainimal-quiz",
+  "version": "1.0.0",
+  "description": "<!-- # ainimal-quiz -->\r # AInimal 工程招募測驗\r ### 題目說明連結: https://hackmd.io/@NlQIrkvRQoSFc-rvEAhpOQ/SJYsd-0WO",
+  "main": "advance.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visitorckw/ainimal-quiz.git"
+  },
+  "author": "visitorckw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visitorckw/ainimal-quiz/issues"
+  },
+  "homepage": "https://github.com/visitorckw/ainimal-quiz#readme"
+}
